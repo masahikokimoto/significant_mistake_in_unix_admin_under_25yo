@@ -1,0 +1,2 @@
+# significant_mistake_in_unix_admin_under_25yo
+#25歳までに経験しておきたいUNIX管理作業での失敗
